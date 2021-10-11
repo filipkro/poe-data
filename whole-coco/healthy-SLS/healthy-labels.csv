@@ -1,0 +1,11 @@
+"Cohort healthy (right leg)",leg,SLS_trunk1,SLS_trunk2,SLS_trunk3,SLS_trunk4,SLS_trunk5,SLS_trunk_mean,SLS_trunk_uncertainty,SLS_trunk_dir,SLS_hip1,SLS_hip2,SLS_hip3,SLS_hip4,SLS_hip5,SLS_hip_mean,SLS_hip_uncertainty,SLS_hip_dir,SLS_femval1,SLS_femval2,SLS_femval3,SLS_femval4,SLS_femval5,SLS_femval_mean,SLS_femval_uncertainty,SLS_femval_dir,SLS_KMFP1,SLS_KMFP2,SLS_KMFP3,SLS_KMFP4,SLS_KMFP5,SLS_KMFP_mean,SLS_KMFP_uncertainty,SLS_KMFP_dir,SLS_fem_med_shank1,SLS_fem_med_shank2,SLS_fem_med_shank3,SLS_fem_med_shank4,SLS_fem_med_shank5,SLS_fem_med_shank_mean,SLS_fem_med_shank_uncertainty,SLS_fem_med_shank_dir,SLS_foot1,SLS_foot2,SLS_foot3,SLS_foot4,SLS_foot5,SLS_foot_mean,SLS_foot_uncertainty,SLS_foot_dir
+1,R,2,0,0,0,0,0,2,0,2,2,2,2,2,2,1,1,2,2,2,2,2,2,1,1,0,0,1,1,1,1,1,1,2,2,2,2,2,2,1,2,0,1,0,1,1,1,1,1
+2,R,1,0,2,0,0,0,2,0,1,0,2,0,0,0,1,1,1,1,2,0,1,1,1,1,0,0,0,0,0,0,1,1,1,1,2,1,2,1,1,1,1,0,2,0,1,1,1,1
+3,R,0,0,0,0,0,0,1,1,1,1,1,1,1,1,2,2,2,2,2,2,2,2,1,1,0,0,0,0,0,0,1,1,1,1,2,1,1,1,1,1,0,0,0,0,0,0,1,0
+4,R,1,0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,2,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,2,1,0,1,1,1,2,0
+5,R,1,2,2,1,1,1,2,2,2,2,1,1,1,1,3,2,1,2,0,2,0,1,2,2,0,0,0,0,0,0,1,1,1,2,1,2,0,1,2,2,1,1,0,1,0,1,1,1
+6,R,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,1,1,1,0,1,2,0,0,0,0,0,0,0,1,0
+7,R,2,2,2,2,2,2,1,1,1,0,0,0,1,0,2,0,0,1,0,1,1,1,2,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,1,0
+8,R,2,2,2,2,2,2,1,1,1,1,1,2,,1,2,2,2,2,2,2,2,2,1,1,1,1,2,2,2,2,1,1,1,2,2,2,2,2,1,1,1,1,2,2,2,2,1,2
+9,R,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,1,1,1,2,2,1,2,2,0,0,0,0,0,0,1,1,0,1,1,1,1,1,1,1,0,0,0,1,1,0,2,1
+10,R,0,1,2,0,0,0,2,0,0,1,1,0,1,1,1,1,0,1,0,0,0,0,2,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,2,1,0,0,0,0,0,0,1,0

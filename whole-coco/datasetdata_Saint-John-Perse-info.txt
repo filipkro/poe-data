@@ -1,0 +1,155 @@
+Dataset Saint-John-Perse, created 2021-08-15, 12:43:28,,,
+COCO dataset used: whole-coco,,,,,
+Action:, _trunk,,,,
+FPS:, 25,,,,
+Keypoints:, [[ 5  0]
+ [ 6  0]
+ [ 6  1]
+ [11  0]
+ [11  1]
+ [12  0]],,,,
+Angles:, [],,,,
+ 
+Diffs:, [[[12  0]
+  [14  0]]],,,,
+index,global subject,repetition,subject in cohort,leg,cohort
+0,0,0,3,R,shield
+1,0,1,3,R,shield
+2,0,2,3,R,shield
+3,0,3,3,R,shield
+4,0,4,3,R,shield
+5,1,0,4,L,shield
+6,1,1,4,L,shield
+7,1,2,4,L,shield
+8,1,3,4,L,shield
+9,1,4,4,L,shield
+10,2,0,9,R,shield
+11,2,1,9,R,shield
+12,2,2,9,R,shield
+13,2,3,9,R,shield
+14,2,4,9,R,shield
+15,3,0,7,R,shield
+16,3,1,7,R,shield
+17,3,2,7,R,shield
+18,3,3,7,R,shield
+19,3,4,7,R,shield
+20,4,0,5,R,shield
+21,4,1,5,R,shield
+22,4,2,5,R,shield
+23,4,3,5,R,shield
+24,4,4,5,R,shield
+25,5,0,8,R,shield
+26,5,1,8,R,shield
+27,5,2,8,R,shield
+28,5,3,8,R,shield
+29,5,4,8,R,shield
+30,6,0,1,R,shield
+31,6,1,1,R,shield
+32,6,2,1,R,shield
+33,6,3,1,R,shield
+34,6,4,1,R,shield
+35,7,0,6,R,shield
+36,7,1,6,R,shield
+37,7,2,6,R,shield
+38,7,3,6,R,shield
+39,7,4,6,R,shield
+40,8,0,10,R,shield
+41,8,1,10,R,shield
+42,8,2,10,R,shield
+43,8,3,10,R,shield
+44,8,4,10,R,shield
+45,9,0,2,R,shield
+46,9,1,2,R,shield
+47,9,2,2,R,shield
+48,9,3,2,R,shield
+49,9,4,2,R,shield
+50,10,0,10,L,hipp
+51,10,1,10,L,hipp
+52,10,2,10,L,hipp
+53,10,3,10,L,hipp
+54,10,4,10,L,hipp
+55,11,0,12,L,hipp
+56,11,1,12,L,hipp
+57,11,2,12,L,hipp
+58,11,3,12,L,hipp
+59,11,4,12,L,hipp
+60,12,0,13,L,hipp
+61,12,1,13,L,hipp
+62,12,2,13,L,hipp
+63,12,3,13,L,hipp
+64,12,4,13,L,hipp
+65,13,0,3,R,hipp
+66,13,1,3,R,hipp
+67,13,2,3,R,hipp
+68,13,3,3,R,hipp
+69,13,4,3,R,hipp
+70,14,0,9,L,hipp
+71,14,1,9,L,hipp
+72,14,2,9,L,hipp
+73,14,3,9,L,hipp
+74,14,4,9,L,hipp
+75,15,0,6,L,hipp
+76,15,1,6,L,hipp
+77,15,2,6,L,hipp
+78,15,3,6,L,hipp
+79,15,4,6,L,hipp
+80,16,0,8,L,hipp
+81,16,1,8,L,hipp
+82,16,2,8,L,hipp
+83,16,3,8,L,hipp
+84,16,4,8,L,hipp
+85,17,0,11,L,hipp
+86,17,1,11,L,hipp
+87,17,2,11,L,hipp
+88,17,3,11,L,hipp
+89,17,4,11,L,hipp
+90,18,0,5,L,hipp
+91,18,1,5,L,hipp
+92,18,2,5,L,hipp
+93,18,3,5,L,hipp
+94,18,4,5,L,hipp
+95,19,0,8,R,hipp
+96,19,1,8,R,hipp
+97,19,2,8,R,hipp
+98,19,3,8,R,hipp
+99,19,4,8,R,hipp
+100,19,0,6,R,hipp
+101,19,1,6,R,hipp
+102,19,2,6,R,hipp
+103,19,3,6,R,hipp
+104,19,4,6,R,hipp
+105,20,0,2,R,hipp
+106,20,1,2,R,hipp
+107,20,2,2,R,hipp
+108,20,3,2,R,hipp
+109,20,4,2,R,hipp
+110,20,0,52,R,marked
+111,20,1,52,R,marked
+112,20,2,52,R,marked
+113,20,3,52,R,marked
+114,20,4,52,R,marked
+115,21,0,38,R,marked
+116,21,1,38,R,marked
+117,21,2,38,R,marked
+118,21,3,38,R,marked
+119,21,4,38,R,marked
+120,22,0,17,L,marked
+121,22,1,17,L,marked
+122,22,2,17,L,marked
+123,22,3,17,L,marked
+124,22,4,17,L,marked
+125,23,0,48,L,marked
+126,23,1,48,L,marked
+127,23,2,48,L,marked
+128,23,3,48,L,marked
+129,23,4,48,L,marked
+130,24,0,11,L,marked
+131,24,1,11,L,marked
+132,24,2,11,L,marked
+133,24,3,11,L,marked
+134,24,4,11,L,marked
+135,25,0,40,L,marked
+136,25,1,40,L,marked
+137,25,2,40,L,marked
+138,25,3,40,L,marked
+139,25,4,40,L,marked
